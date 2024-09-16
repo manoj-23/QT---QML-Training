@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DynamicRectangle.qml</file>
+    </qresource>
+</RCC>
